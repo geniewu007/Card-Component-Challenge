@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Card-Component-Challenge/static/css/main.e6c13ad2.css",
+    "main.js": "/Card-Component-Challenge/static/js/main.5b5a3715.js",
+    "static/js/787.cb61a167.chunk.js": "/Card-Component-Challenge/static/js/787.cb61a167.chunk.js",
+    "index.html": "/Card-Component-Challenge/index.html",
+    "main.e6c13ad2.css.map": "/Card-Component-Challenge/static/css/main.e6c13ad2.css.map",
+    "main.5b5a3715.js.map": "/Card-Component-Challenge/static/js/main.5b5a3715.js.map",
+    "787.cb61a167.chunk.js.map": "/Card-Component-Challenge/static/js/787.cb61a167.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5b5a3715.js"
+  ]
+}
